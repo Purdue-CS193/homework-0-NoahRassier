@@ -1,6 +1,9 @@
+## Noah Rassier's First CS193 Homework
 
-
-
+- Meet new people in CS.
+- Learn helpful CS skills.
+- Have fun looking into different CS tools that could be used for later classes or projects.
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
